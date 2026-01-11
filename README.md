@@ -7,4 +7,4 @@
 | 663380389-9 | นางสาวธันย์ชนก โสภา | [@Thanchanok1234](https://github.com/Thanchanok1234) |
 | 663380599-8 | นายธิติกร สุวรรณบุตรวิภา | - |
 | 663380616-4 | นายเกรียงไกร ประเสริฐ | [@kriangkraiii](https://github.com/kriangkraiii) |
-| 663380374-2 | นายกฤต อินทรจินดา | - |
+| 663380374-2 | นายกฤต อินทรจินดา | [ampcln](https://github.com/4mpcln) |
